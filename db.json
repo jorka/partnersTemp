@@ -18,7 +18,7 @@
       "longitude": "23.3377",
       "category": "category 2",
       "offer": "10% rebate on photoshoot and prints with les 100 voeux blanket",
-      "offerURL": "http://google.com"
+      "offerUrl": "http://google.com"
     },
     {
       "id": "5f1ef83dd936e9375ee4d31d",
@@ -38,7 +38,7 @@
       "longitude": "23.2214",
       "category": "category 3",
       "offer": "Lorem nostrud ea exercitation velit adipisicing aliquip consectetur reprehenderit amet",
-      "offerURL": "http://google.com"
+      "offerUrl": "http://google.com"
     },
     {
       "id": "5f1ef83dea5e61343f744bbb",
@@ -58,7 +58,7 @@
       "longitude": "2.82878",
       "category": "category 3",
       "offer": "enim do tempor aliquip ipsum dolor dolore irure aliqua id",
-      "offerURL": "http://google.com"
+      "offerUrl": "http://google.com"
     },
     {
       "id": "5f1ef83d0517988ac09cece6",
@@ -78,7 +78,7 @@
       "longitude": "2.8703",
       "category": "category 2",
       "offer": "dolor eu occaecat minim laboris voluptate qui id ex et",
-      "offerURL": "http://google.com"
+      "offerUrl": "http://google.com"
     },
     {
       "id": "5f1ef83d5f26b506f9bb847f",
@@ -98,7 +98,7 @@
       "longitude": "3.2032",
       "category": "category 1",
       "offer": "veniam commodo sit eu tempor nulla deserunt magna consequat magna",
-      "offerURL": "http://google.com"
+      "offerUrl": "http://google.com"
     },
     {
       "id": "5f1ef83d3d17f71ee24422f6",
@@ -118,7 +118,7 @@
       "longitude": "4.790",
       "category": "category 3",
       "offer": "veniam Lorem nisi voluptate officia minim esse ut eu nulla",
-      "offerURL": "http://google.com"
+      "offerUrl": "http://google.com"
     },
     {
       "id": "5f1ef83dd688b8c7fee5c7e9",
@@ -138,7 +138,7 @@
       "longitude": "4.329",
       "category": "category 2",
       "offer": "esse exercitation adipisicing cupidatat magna ex quis veniam aliquip nostrud",
-      "offerURL": "http://google.com"
+      "offerUrl": "http://google.com"
     },
     {
       "id": "5f1ef83d4df76ddb854a8a8d",
@@ -158,7 +158,7 @@
       "longitude": "4.867",
       "category": "category 3",
       "offer": "qui labore elit fugiat proident aliqua irure cupidatat cillum consectetur",
-      "offerURL": "http://google.com"
+      "offerUrl": "http://google.com"
     },
     {
       "id": "5f1ef83d48fe5d9c3c869d98",
@@ -178,7 +178,7 @@
       "longitude": "3.807",
       "category": "category 3",
       "offer": "excepteur amet in irure dolore non est anim sit do",
-      "offerURL": "http://google.com"
+      "offerUrl": "http://google.com"
     },
     {
       "id": "5f1ef83da1b22c644541a7f3",
@@ -198,7 +198,7 @@
       "longitude": "1.412",
       "category": "category 3",
       "offer": "ullamco reprehenderit amet aliquip magna officia magna ad laboris consequat",
-      "offerURL": "http://google.com"
+      "offerUrl": "http://google.com"
     }
   ]
 }
